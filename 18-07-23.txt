@@ -1,1 +1,3 @@
 az keyvault set-policy -n <keyvault-name> — secret-permissions get — spn <identity-principal-id>
+
+Tis is secd lie
